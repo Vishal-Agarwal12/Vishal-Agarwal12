@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Agarwal</h1>
 <h3 align="center">A Competitive Programmer and Developer!</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3EXtqGTH7ivp5iLZGdWKIh&ust=1710330390813000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCy6avT7oQDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-agarwal12&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-agarwal12" /> </p>
 
